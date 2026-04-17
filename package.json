@@ -1,0 +1,12 @@
+{
+  "name": "ielts-daily-push",
+  "version": "1.0.0",
+  "description": "雅思口语每日定时推送邮件",
+  "type": "module",
+  "scripts": {
+    "send": "node send_email.js"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.14"
+  }
+}

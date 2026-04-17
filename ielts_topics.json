@@ -1,0 +1,158 @@
+{
+  "part1": [
+    { "id": 1,  "category": "Hometown & Living", "question": "Do you like your hometown? Why/Why not?" },
+    { "id": 2,  "category": "Hometown & Living", "question": "What do you like most about your hometown?" },
+    { "id": 3,  "category": "Hometown & Living", "question": "Is there anything you dislike about your hometown?" },
+    { "id": 4,  "category": "Hometown & Living", "question": "How long have you been living there?" },
+    { "id": 5,  "category": "Hometown & Living", "question": "Do you think you will continue living there?" },
+    { "id": 6,  "category": "Work & Study",       "question": "Do you work or are you a student?" },
+    { "id": 7,  "category": "Work & Study",       "question": "What do you like most about your work/studies?" },
+    { "id": 8,  "category": "Work & Study",       "question": "Is there anything you dislike about your work/studies?" },
+    { "id": 9,  "category": "Work & Study",       "question": "What was your first day like?" },
+    { "id": 10, "category": "Work & Study",       "question": "Do you plan to change your job/major in the future?" },
+    { "id": 11, "category": "Hobbies & Free Time","question": "What do you usually do in your free time?" },
+    { "id": 12, "category": "Hobbies & Free Time","question": "How often do you hang out with friends?" },
+    { "id": 13, "category": "Hobbies & Free Time","question": "Do you prefer staying at home or going out?" },
+    { "id": 14, "category": "Hobbies & Free Time","question": "What do you do to relax?" },
+    { "id": 15, "category": "Food & Cooking",     "question": "Do you like cooking? Why/Why not?" },
+    { "id": 16, "category": "Food & Cooking",     "question": "How often do you cook?" },
+    { "id": 17, "category": "Food & Cooking",     "question": "Do you prefer eating at home or at restaurants?" },
+    { "id": 18, "category": "Food & Cooking",     "question": "What is your favorite food?" },
+    { "id": 19, "category": "Weather & Seasons",   "question": "Do you like the weather in your city?" },
+    { "id": 20, "category": "Weather & Seasons",   "question": "What's your favorite season?" },
+    { "id": 21, "category": "Weather & Seasons",   "question": "What do you usually do in summer/winter?" },
+    { "id": 22, "category": "Technology",          "question": "Do you like using smartphones?" },
+    { "id": 23, "category": "Technology",          "question": "How often do you use the internet?" },
+    { "id": 24, "category": "Technology",          "question": "What technology do you often use?" },
+    { "id": 25, "category": "Technology",          "question": "Do you think technology has changed your life?" },
+    { "id": 26, "category": "Shopping",            "question": "Do you like shopping?" },
+    { "id": 27, "category": "Shopping",            "question": "Do you prefer online shopping or in-store shopping?" },
+    { "id": 28, "category": "Shopping",            "question": "What do you usually buy?" },
+    { "id": 29, "category": "Shopping",            "question": "How often do you go shopping?" },
+    { "id": 30, "category": "Travel",              "question": "Do you like traveling?" },
+    { "id": 31, "category": "Travel",              "question": "What is your favorite place you have visited?" },
+    { "id": 32, "category": "Travel",              "question": "Do you prefer traveling alone or with others?" }
+  ],
+  "part2": [
+    {
+      "id": 1,
+      "type": "People",
+      "question": "Describe a person you admire.",
+      "hints": ["Who they are", "How you know them", "What they have done", "Why you admire them"]
+    },
+    {
+      "id": 2,
+      "type": "People",
+      "question": "Describe a family member who has influenced you.",
+      "hints": ["Who they are", "How they have influenced you", "What they do", "Why you think they are influential"]
+    },
+    {
+      "id": 3,
+      "type": "People",
+      "question": "Describe a teacher who helped you.",
+      "hints": ["Who they are", "When and where you met", "How they helped you", "Why you remember them"]
+    },
+    {
+      "id": 4,
+      "type": "Places",
+      "question": "Describe a place you would like to visit.",
+      "hints": ["Where it is", "Why you want to visit", "What you would do there", "How you feel about it"]
+    },
+    {
+      "id": 5,
+      "type": "Places",
+      "question": "Describe a cafe or restaurant you like.",
+      "hints": ["Where it is", "What it looks like", "What you usually order", "Why you like it"]
+    },
+    {
+      "id": 6,
+      "type": "Places",
+      "question": "Describe a city you have visited.",
+      "hints": ["Which city", "When you visited", "What you saw/did", "Why it impressed you"]
+    },
+    {
+      "id": 7,
+      "type": "Activities",
+      "question": "Describe a memorable trip you took.",
+      "hints": ["When and where", "Who you went with", "What you did", "Why it was memorable"]
+    },
+    {
+      "id": 8,
+      "type": "Activities",
+      "question": "Describe a time you helped someone.",
+      "hints": ["Who you helped", "What you did", "How you helped", "How you felt"]
+    },
+    {
+      "id": 9,
+      "type": "Activities",
+      "question": "Describe a celebration you attended.",
+      "hints": ["What the occasion was", "Where it took place", "What happened", "Why it was special"]
+    },
+    {
+      "id": 10,
+      "type": "Activities",
+      "question": "Describe a time you learned something new.",
+      "hints": ["What you learned", "When and where", "How you learned it", "Why it was important"]
+    },
+    {
+      "id": 11,
+      "type": "Objects",
+      "question": "Describe an object that is important to you.",
+      "hints": ["What it is", "How you got it", "What it looks like", "Why it is important"]
+    },
+    {
+      "id": 12,
+      "type": "Objects",
+      "question": "Describe a book you have read recently.",
+      "hints": ["What it is about", "When you read it", "Why you chose it", "What you learned"]
+    },
+    {
+      "id": 13,
+      "type": "Objects",
+      "question": "Describe a movie you watched recently.",
+      "hints": ["What it was about", "When/where you watched it", "Who you watched it with", "Why you recommend it"]
+    },
+    {
+      "id": 14,
+      "type": "Abstract",
+      "question": "Describe a goal you want to achieve in the future.",
+      "hints": ["What it is", "How you plan to achieve it", "What you need to do", "Why it matters"]
+    },
+    {
+      "id": 15,
+      "type": "Abstract",
+      "question": "Describe something you want to improve.",
+      "hints": ["What it is", "Why you want to improve it", "How you plan to do it", "What difficulties you might face"]
+    }
+  ],
+  "part3": [
+    { "id": 1,  "category": "Hometown & City",       "question": "What are the advantages and disadvantages of living in a big city?" },
+    { "id": 2,  "category": "Hometown & City",       "question": "How has your hometown changed in recent years?" },
+    { "id": 3,  "category": "Hometown & City",       "question": "Why do some people prefer to live in small towns?" },
+    { "id": 4,  "category": "Hometown & City",       "question": "What can governments do to improve small towns?" },
+    { "id": 5,  "category": "Work & Career",         "question": "What factors are important for a successful career?" },
+    { "id": 6,  "category": "Work & Career",         "question": "How has technology changed the way we work?" },
+    { "id": 7,  "category": "Work & Career",         "question": "Do you think work-life balance is important?" },
+    { "id": 8,  "category": "Work & Career",         "question": "What skills are needed for future jobs?" },
+    { "id": 9,  "category": "Education",             "question": "What are the advantages and disadvantages of online learning?" },
+    { "id": 10, "category": "Education",             "question": "How should schools prepare students for the future?" },
+    { "id": 11, "category": "Education",             "question": "Is it important to learn foreign languages?" },
+    { "id": 12, "category": "Education",             "question": "What role should creativity play in education?" },
+    { "id": 13, "category": "Technology & Society",  "question": "How has technology changed the way we communicate?" },
+    { "id": 14, "category": "Technology & Society",  "question": "Do you think smartphones are good or bad for society?" },
+    { "id": 15, "category": "Technology & Society",  "question": "What are the impacts of social media on young people?" },
+    { "id": 16, "category": "Technology & Society",  "question": "How will AI affect our lives in the future?" },
+    { "id": 17, "category": "Environment",           "question": "What are the main environmental problems in your country?" },
+    { "id": 18, "category": "Environment",           "question": "What can individuals do to protect the environment?" },
+    { "id": 19, "category": "Environment",           "question": "Should governments prioritize economic growth or environmental protection?" },
+    { "id": 20, "category": "Environment",           "question": "How can we encourage people to use public transportation?" },
+    { "id": 21, "category": "Culture & Travel",      "question": "Why do people enjoy traveling?" },
+    { "id": 22, "category": "Culture & Travel",      "question": "How does traveling benefit individuals and society?" },
+    { "id": 23, "category": "Culture & Travel",      "question": "What are the advantages of experiencing different cultures?" },
+    { "id": 24, "category": "Culture & Travel",      "question": "How has tourism changed local communities?" },
+    { "id": 25, "category": "Health & Lifestyle",   "question": "What are the benefits of a healthy lifestyle?" },
+    { "id": 26, "category": "Health & Lifestyle",   "question": "How can we encourage young people to exercise more?" },
+    { "id": 27, "category": "Health & Lifestyle",   "question": "Do you think stress is a problem in modern society?" },
+    { "id": 28, "category": "Health & Lifestyle",   "question": "What role does sleep play in our health?" }
+  ]
+}
